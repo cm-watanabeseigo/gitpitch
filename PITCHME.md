@@ -24,7 +24,7 @@
 ---
 
 @snap[bottom]
-@fa[thumbs-up fa-5x](Sounds good to me!)
+@fa[thumbs-up fa-5x orange]
 @snapend
 
 ---
