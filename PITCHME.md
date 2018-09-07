@@ -23,6 +23,12 @@
 
 ---
 
+@snap[bottom]
+@fa[thumbs-up fa-5x](Sounds good to me!)
+@snapend
+
+---
+
 @snap[midpoint]
 classmethod.jp
 @snapend
