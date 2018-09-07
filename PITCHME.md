@@ -15,6 +15,10 @@
 
 ---
 
+## H2
+
+---
+
 @snap[midpoint]
 # @size[3.5em](OK)
 @snapend

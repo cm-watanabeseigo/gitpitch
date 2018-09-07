@@ -1,4 +1,6 @@
 .reveal section h2 {
     width: 100%;
     background-color: #8888ff;
+    position: sticky;
+    top: 20px;
 }
