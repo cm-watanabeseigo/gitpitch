@@ -4,6 +4,7 @@ footnote : "2018 classmethod.jp"
 
 # Layout
 layout : center-left
+theme-override : assets/css/PITCHME.css
 code-line-numbers : true
 
 # Behavior
