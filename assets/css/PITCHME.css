@@ -1,9 +1,15 @@
 .reveal section h2 {
     position: fixed;
     width: 100%;
-    border-bottom: 2px;
+    border-bottom: 4px;
     border-bottom-color: orange;
-    margin: 10px;
+    margin: 10px 10px 10px 10px;
     top: 0px;
     left: 0px;
+}
+
+font-face {
+    font-family: "Hiragino Kaku Gothic ProN W6";
+    font-style: normal;
+    font-weight: 600;
 }
