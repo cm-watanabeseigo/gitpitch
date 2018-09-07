@@ -1,7 +1,11 @@
-@transition[none]
+---
+
+# スライドのタイトル
+
+---
 
 @snap[north-west]
-1枚目
+2枚目
 @snapend
 
 * こんなこと

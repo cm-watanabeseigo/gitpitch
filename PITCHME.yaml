@@ -1,5 +1,10 @@
+# Theme
+theme : white
+footnote : "2018 classmethod.jp"
+
 # Layout
 layout : center-left
+code-line-numbers : true
 
 # Behavior
 transition : none
