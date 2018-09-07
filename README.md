@@ -1,2 +1,5 @@
-# gitpitch
-https://gitpitch.com/
+# GitPitch
+
+`https://gitpitch.com/$user/$repo/$branch`
+
+
