@@ -21,8 +21,8 @@
 
 .reveal section ul {
     list-style: none;
-    padding:0;
-    margin:30;
+    padding: 1em;
+    margin: 0;
 }
 .reveal section li { 
     padding-left: 1em; 
