@@ -1,10 +1,10 @@
 .reveal h1 {
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 .reveal h2 {
     position: fixed;
-    font-size: 1.8em;
+    font-size: 1.2em;
     width: 120%;
     border-bottom: 2px solid black;
     padding: 10px 10px 10px 10px;
