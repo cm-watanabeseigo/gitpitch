@@ -11,8 +11,12 @@
 
 ---
 
+@snap[midpoint]
 # @size[3.5em](OK)
+@snapend
 
 ---
 
-## The End :)
+@snap[midpoint]
+classmethod.jp
+@snapend
