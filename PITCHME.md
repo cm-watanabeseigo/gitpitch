@@ -1,8 +1,13 @@
 @transition[none]
 
 @snap[north-west]
-## Hello, World!
+1枚目
 @snapend
+
+* こんなこと
+    * あれ
+    * それ
+    * どれ？
 
 ---
 
