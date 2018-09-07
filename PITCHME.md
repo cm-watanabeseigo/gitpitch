@@ -17,8 +17,10 @@
 
 ---
 
+## 確認
+
 @snap[midpoint]
-@size[3.5em](OK?)
+@size[5em](OK?)
 @snapend
 
 ---
