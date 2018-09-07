@@ -19,16 +19,16 @@
 
 .orange { color : orange; }
 
-ul {
+.reveal section ul {
     list-style: none;
     padding:0;
-    margin:0;
+    margin:30;
 }
-li { 
+.reveal section li { 
     padding-left: 1em; 
     text-indent: -.7em;
 }
-li:before {
+.reveal section li:before {
     content: "≫ ";
     color: orange;
 }
