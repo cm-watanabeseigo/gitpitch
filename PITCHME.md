@@ -23,7 +23,7 @@
 
 ---
 
-@snap[bottom]
+@snap[south-east]
 @fa[thumbs-up fa-5x orange]
 @snapend
 
