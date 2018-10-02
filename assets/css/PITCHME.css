@@ -1,15 +1,34 @@
+@import url('https://fonts.googleapis.com/earlyaccess/notosansjapanese.css');
+
+.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Noto Sans Japanese", "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, Meiryo, sans-serif;
+  text-transform: none;
+  font-size: 36px;
+  color: #eee;
+}
+
 .reveal h1 {
-    font-size: 1.5em;
+    font-size: 2.5em;
+    letter-spacing: -0.04em;
 }
 
 .reveal h2 {
-    position: fixed;
-    font-size: 1.2em;
-    width: 120%;
-    border-bottom: 2px solid black;
-    padding: 10px 10px 10px 10px;
-    top: 0px;
-    left: 0px;
+    font-size: 1.6em;
+    letter-spacing: -0.04em;
+}
+
+.reveal h3 {
+    font-size: 1.3em;
+    width: 100%;
+    border-bottom: 1px solid;
+}
+
+.reveal h4 {
+    font-size: 1em;
+}
+
+.reveal a, .reveal a:hover {
+    border-bottom: 1px dotted #fef6e3;
 }
 
 .reveal section img {
@@ -17,18 +36,12 @@
     box-shadow: none;
 }
 
-.orange { color : orange; }
+.reveal table {
+    font-size: 0.35em;
+}
 
-.reveal section ul {
-    list-style: none;
-    padding-left: 0.5em;
-    margin: 0;
-}
-.reveal section li { 
-    padding-left: 1em; 
-    text-indent: -.7em;
-}
-.reveal section li:before {
-    content: "≫ ";
-    color: orange;
+.list-square li {
+    font-size: 0.9em;
+    list-style-type: square !important;
+    list-style-position: inside !important;
 }
