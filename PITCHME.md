@@ -1,7 +1,7 @@
 ---?image=assets/img/akiba-aws-02.png&size=100%
 
 ---
-@color[orange](AKIBA.AWS #10)
+@color[orange](AKIBA.AWS #10) LT4:
 
 # AWS Systems Manager<br/>最近の UPDATE で<br/>出来るようになったこと
 
