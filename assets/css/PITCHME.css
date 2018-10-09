@@ -35,14 +35,18 @@
     box-shadow: none;
 }
 
-/*
 .reveal table {
-    font-size: 0.35em;
+    font-size: 0.6em;
 }
-*/
 
-.list-square li {
+.reveal li {
     font-size: 0.9em;
+    list-style-type: square !important;
+    list-style-position: inside !important;
+}
+
+.li-small60 li {
+    font-size: 0.6em;
     list-style-type: square !important;
     list-style-position: inside !important;
 }
