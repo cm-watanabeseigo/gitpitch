@@ -17,7 +17,7 @@
 
 ---
 
-## @fa[sign-in fa-orange] INPUT・@fa[sign-out fa-orange] OUTPUT
+## @fa[download fa-orange] INPUT・@fa[cloud-upload fa-orange] OUTPUT
 
 ---
 
