@@ -1,0 +1,13 @@
+# Theme
+theme : white
+footnote : "Classmethod., Inc."
+
+# Layout
+layout : center-left
+theme-override : assets/css/PITCHME.css
+code-line-numbers : true
+controls-layout : edges
+
+# Behavior
+transition : none
+published : true
