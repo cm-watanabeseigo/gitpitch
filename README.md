@@ -1,5 +1,5 @@
 # GitPitch
 
-`https://gitpitch.com/$user/$repo/$branch`
+`https://gitpitch.com/cm-watanabeseigo/gitpitch/20190213_talk-about-quic`
 
 
