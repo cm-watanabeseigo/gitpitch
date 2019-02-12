@@ -144,6 +144,7 @@
   - [HTTP over QUICと、その名称について (HTTP3について)](https://asnokaze.hatenablog.com/entry/2018/11/06/025016)
   - [QUICの話 (QUICプロトコルの簡単なまとめ)](https://asnokaze.hatenablog.com/entry/2018/10/31/020215)
   - [QUIC,HTTP/3 の draft-17に関するメモ](https://asnokaze.hatenablog.com/entry/2018/12/23/022715)
+  - [QUICの仕様におけるアンプ攻撃対策 - Qiita](https://qiita.com/flano_yuki/items/5a94fe91b98df98d54d0)
 - その前にこれ読むと分かりやすい
   - [QUIC標準化動向 〜2017/7](https://www.slideshare.net/kazuho/quic-20177)
   - [http2解説](https://http2-explained.haxx.se/content/ja/)
