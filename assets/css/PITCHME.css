@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/earlyaccess/notosansjapanese.css');
+.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Noto Sans Japanese", "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, Meiryo, sans-serif;
+    text-transform: none;
+    font-size: 36px;
+    color: #eee;
+}
+
+.reveal h1 {
+    font-size: 2.5em;
+    letter-spacing: -0.035em;
+}
+
+.reveal h2 {
+    font-size: 1.6em;
+    letter-spacing: -0.04em;
+}
+
+.reveal h3 {
+    font-size: 1.3em;
+    width: 100%;
+    border-bottom: 1px solid;
+}
+
+.reveal h4 {
+    font-size: 1em;
+}
+
+.reveal a, .reveal a:hover {
+    border-bottom: 1px dotted #333;
+}
+
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+    background: rgba(255,255,255,0);
+}
+
+.reveal table {
+    font-size: 0.6em;
+}
+
+.reveal li {
+    font-size: 0.9em;
+}
+
+.li-small li {
+    font-size: 0.35em;
+}
+
+.reveal ul {
+    list-style: none;
+}
+
+.reveal ul li::before {
+    content: "\2023";
+    color: orange;
+    font-weight: normal;
+    font-size: 1.2em;
+    display: inline-block;
+    width: 0.6em;
+    margin-left: 0.5em;
+}
+
+.fa-orange {
+    color: orange;
+}
+
