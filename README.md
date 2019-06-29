@@ -1,6 +1,6 @@
 # GitPitch
 
-`https://gitpitch.com/$user/$repo/$branch`
+https://gitpitch.com/cm-watanabeseigo/gitpitch/20190701_lt_eng_skyfall
 
 ## Theme
 
