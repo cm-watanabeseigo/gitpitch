@@ -37,7 +37,6 @@ Note:
 - my name is seigo watanabe. watanabe is family name.
 - as you know, in this company, i am called "seigo" from them.
 - i joined this company at 2 years ago, and i belong to operation department.
-- my rarejob level is only 4, then ...
 
 ---
 
@@ -61,7 +60,7 @@ with warmed eyes like this! ->
 
 Note:
 - this lightening talk targeted to level 2 or 3.
-- and i afraid, the story may be bad know-how. be careful.
+- and i am afraid, the story may be bad know-how. be careful.
 
 ---
 
@@ -89,7 +88,8 @@ Note:
 @snapend
 
 Note:
-- "Dubble-o-seven" is one of my favorite action movie series.
+- Has anyone seen this movie?
+- ok, "Dubble-o-seven" is one of very famous action movie series.
 - Skyfall is the one of it. starring daniel craig, releaseed by October 2012.
 - and 5 month earlier, A teaser trailer was released.
 
@@ -118,8 +118,8 @@ Note:
 Note:
 - https://www.youtube.com/watch?v=0ESUAgMaOCY
 - well, I want to introduce the sciene in the trailer.
-- in somewhere, an interviewer tell Bond with short word, Bond answerd w/ short word too:
-  - "Country." "England."
+- in somewhere, an interviewer tell Bond with short word, "Country."
+- Bond answerd w/ short word too: "England."
   - "Gun." "Shot."
   - "Agent." "Provocateur."
   - "Murder." "Employment."
@@ -136,6 +136,7 @@ Note:
 @ulend
 
 Note:
+- "Skyfall".
 - No answer from Bond a while.
 - And, A interviewer repeat,
 
@@ -283,7 +284,7 @@ Note:
 
 Note:
 - Yes! That's misleading!
-- Not a trap, but naturally occurring misleading.
+- perhaps, it is Not a trap, but naturally occurring misleading.
 - I think: when the trailer translating, The translator did not have any information about the story except the trailer.
 
 ---
