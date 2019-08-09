@@ -127,6 +127,7 @@ Note:
 - [WordPressの記事でも手軽にリンクをカード型にデザインできるEmbedlyを試してみた ｜ DevelopersIO](https://dev.classmethod.jp/tool/embedly-with-wordpress/)
 - [Embedly のカード埋め込み HTML を FormatLink で手軽に生成する ｜ DevelopersIO](https://dev.classmethod.jp/blog/201904-use-embedly-easier-with-formatlink/)
 @ulend
+<a class="embedly-card" data-card-description="0" data-card-type="article" data-card-align="left" data-card-controls="0" href="https://dev.classmethod.jp/tool/embedly-with-wordpress/">WordPressの記事でも手軽にリンクをカード型にデザインできるEmbedlyを試してみた ｜ DevelopersIO</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 @snapend
 
 ---
@@ -188,7 +189,7 @@ Note:
 - 序盤で注意を引く、続きを読んでもらう
 - 「1画面全てが文章」とならないようにする
   - 画像や表、箇条書きなどがはいるように
-- リンクは 2 種類を使い分ける
+- リンクは使い分ける
   - リンク付きテキスト
   - embedly
   - Wordpressのブログカードはバランスをみて使用
