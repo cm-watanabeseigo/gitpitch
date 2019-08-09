@@ -112,7 +112,7 @@ Note:
 @ul[list](false)
 - Firefox ブラウザ
   - Copy as Markdown - 開いたブラウザのタイトルとURLをコピー
-  - Multi-Account Containers - 複数AWSアカウントも同時に開ける
+  - Multi-Account Containers - 複数AWSアカウントも同時に
   - Format Link - embedly形式でのURLコピーなど
 - レベル補正 -> Affinity Photo / PS
 - 切り抜き/サイズ変更 -> Skitch / 手製Automator
@@ -205,12 +205,12 @@ Note:
   - 同じ事をするのに一番妥当でシンプルな方法を検討
 - 誰も悲しまないこと
   - 誰かの功績を否定 or 横取りするような内容は避ける
-  - 法的妥当性もできるだけ検討
+  - 法的妥当性（著作権とか）も考慮
 - 読むひとに伝えたい何かがあること
 @ulend
 
 ---
 
 @snap[midpoint]
-![logo](assets/img/cm_yoko_colorwhite.png)
+![logo](assets/img/cm_logo_black.png)
 @snapend
