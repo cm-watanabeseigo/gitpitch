@@ -54,7 +54,7 @@
 
 .reveal ul li::before {
     content: "\2023";
-    color: orange;
+    color: darkorange;
     font-weight: normal;
     font-size: 1.2em;
     display: inline-block;
@@ -62,6 +62,6 @@
 }
 
 .fa-orange {
-    color: orange;
+    color: darkorange;
 }
 
