@@ -115,19 +115,20 @@ Note:
   - Multi-Account Containers - 複数AWSアカウントも同時に
   - Format Link - embedly形式でのURLコピーなど
 - レベル補正 -> Affinity Photo / PS
+  - どうしても見難い時のみ
 - 切り抜き/サイズ変更 -> Skitch / 手製Automator
 - pngquant (PNG Reducer)
+  - [\[小ネタ\] pngquantを使って指定したディレクトリ内のPNG画像のサイズを小さくしてみた ｜ DevelopersIO](https://dev.classmethod.jp/tool/compression-with-pngquant/)
+  - `brew install pngquant`
 @ulend
 
 ---
 ### embedly
 
-@snap[west]
 @ul[list](false)
 - [WordPressの記事でも手軽にリンクをカード型にデザインできるEmbedlyを試してみた ｜ DevelopersIO](https://dev.classmethod.jp/tool/embedly-with-wordpress/)
 - [Embedly のカード埋め込み HTML を FormatLink で手軽に生成する ｜ DevelopersIO](https://dev.classmethod.jp/blog/201904-use-embedly-easier-with-formatlink/)
 @ulend
-@snapend
 
 ---
 ### エディタ・ブラウザ
@@ -172,12 +173,13 @@ Note:
 ### 本文の構造：やってみた系記事
 
 @ul[list](false)
+- TL;DR（記事が長くなりそうなら）
 - 序文：なんの記事か、これを読むと何が出来るか
+  - アイスブレイク込み
   - 注意点がある場合は短くにおわせておく
-  - あまり長くしない (PC 1画面に収まる程度)
   - 一次資料のリンク先
 - とりあえず動かす/動かした画面や結果の提示
-- 実際の手順（長くなりがち）
+- 実際の手順
 - この機能の背景を考察
   - なぜこれが要るのか、どういう時にうれしいのか
 - 注意点：これをすることで/しないことで発生する不利益など
@@ -190,10 +192,10 @@ Note:
 @ul[list](false)
 - 序盤で注意を引く、続きを読んでもらう
 - 「1画面全てが文章」とならないようにする
-  - 画像や表、箇条書きなどがはいるように
-- リンクは使い分ける
-  - リンク付きテキスト
-  - embedly
+  - 画像や表、箇条書きなどを適当に入れる
+- リンクは使い分ける（主に上の二つ）
+  - リンク付きテキスト（シンプル）
+  - embedly（カスタムCSS付き）
   - Wordpressのブログカードはバランスをみて使用
 - 適度に脚注をいれる
 - 適度に ~~ネタ~~ アイスブレイクを仕込む
