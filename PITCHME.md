@@ -147,12 +147,8 @@ Note:
 ## 書き方
 @snapend
 
----
+---?image=assets/img/Untitled.png&position=center&size=60%
 ### 目標
-
-@snap[midpoint]
-![graph](assets/img/Untitled.png)
-@snapend
 
 ---
 ### 執筆の流れ
