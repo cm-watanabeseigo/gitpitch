@@ -10,3 +10,4 @@ controls-layout : edges
 # Behavior
 transition : none
 published : true
+eager-loading : true
