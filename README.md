@@ -1,10 +1,10 @@
 # GitPitch
 
-`https://gitpitch.com/$user/$repo/$branch`
+https://gitpitch.com/cm-watanabeseigo/gitpitch/20190809_lt_blog#/
 
 ## Theme
 
-black
+white
 
 ## Update
 

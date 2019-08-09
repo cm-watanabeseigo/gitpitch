@@ -127,7 +127,6 @@ Note:
 - [WordPressの記事でも手軽にリンクをカード型にデザインできるEmbedlyを試してみた ｜ DevelopersIO](https://dev.classmethod.jp/tool/embedly-with-wordpress/)
 - [Embedly のカード埋め込み HTML を FormatLink で手軽に生成する ｜ DevelopersIO](https://dev.classmethod.jp/blog/201904-use-embedly-easier-with-formatlink/)
 @ulend
-<a class="embedly-card" data-card-description="0" data-card-type="article" data-card-align="left" data-card-controls="0" href="https://dev.classmethod.jp/tool/embedly-with-wordpress/">WordPressの記事でも手軽にリンクをカード型にデザインできるEmbedlyを試してみた ｜ DevelopersIO</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 @snapend
 
 ---
@@ -146,6 +145,13 @@ Note:
 
 @snap[west]
 ## 書き方
+@snapend
+
+---
+### 目標
+
+@snap[midpoint]
+![graph](assets/img/Untitled.png)
 @snapend
 
 ---
